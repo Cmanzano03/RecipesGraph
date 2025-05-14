@@ -108,3 +108,5 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.14
+networkx==3.4.2
+pyvis==0.3.2
